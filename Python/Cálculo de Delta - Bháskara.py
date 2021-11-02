@@ -1,4 +1,4 @@
-#Desenvolva uma lógica que leia os valores de A, B e C de uma equação do segundo grau e mostre o valor de Delta.
+#Desenvolva uma lógica que leia os valores de A, B e C de uma equação do segundo grau e mostre o valor de Delta, x' e x'' (x1 e x2);
 
 a = float(input('Por favor, digite o valor A da equação de segundo grau: '))
 b = float(input('Digite agora, o valor B da equação de segundo grau: '))
